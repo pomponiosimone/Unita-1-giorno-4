@@ -1,0 +1,51 @@
+header {
+
+    background-color: black;
+   
+    text-align: center;
+
+width: 600px;}
+.imgback
+{
+     width: 600px;
+     height: 400px;
+        background-image: url("../images/banner.jpg");
+        background-size: cover;
+        background-position: center; 
+        text-align:center;
+        font-size:1.1em;
+      
+}
+
+body {
+    font-family: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+text-align: center;
+line-height: center;
+}
+
+h1{
+    font-family:  #393d41;
+    font-weight:bold;
+}
+
+.incolonna {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h2{
+    color: aqua;
+    font-weight: bold;
+}
+
+.rosso {
+    background-color: red;
+    width:600px;
+    height:200px;
+}
+.bottone{
+    background-color: #f04c2f ;
+    font-weight:bold ;
+}
+ 
