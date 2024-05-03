@@ -21,8 +21,7 @@ body {
     font-family: #393d41;
     font-size: 1.2rem;
     line-height: 1.65;
-text-align: center;
-line-height: center;
+
 }
 
 h1{
@@ -40,12 +39,42 @@ h2{
 }
 
 .rosso {
-    background-color: red;
+    background-color: #e22d0e;
     width:600px;
     height:200px;
+    text-align: center;
 }
 .bottone{
     background-color: #f04c2f ;
     font-weight:bold ;
+
+text-align: center;
+line-height: center;
 }
- 
+.card{
+    text-align: center;}
+    .cart2{
+        text-align: center;
+    }
+    
+    .carta3{
+        text-align:center
+    }
+    h3{
+        font-weight:bold;
+        color:#008B8B
+    }
+    .blu {
+        background-color: #34c3eb;
+        width:600px;
+        height:200px;
+        text-align: center;
+    }
+    .bianco {
+        font-weight: bold;
+        color: white;
+        font-size: 1.1em;
+    }
+.tabella{
+    text-align:center;
+}
