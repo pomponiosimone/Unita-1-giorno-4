@@ -3,6 +3,7 @@ header {
     background-color: black;
    
     text-align: center;
+    margin:auto;
 
 width: 600px;}
 .imgback
@@ -12,8 +13,9 @@ width: 600px;}
         background-image: url("../images/banner.jpg");
         background-size: cover;
         background-position: center; 
-        text-align:center;
+    text-align: center;
         font-size:1.1em;
+        margin:auto;
       
 }
 
@@ -43,10 +45,12 @@ h2{
     width:600px;
     height:200px;
     text-align: center;
+    margin:auto;
 }
 .bottone{
-    background-color: #f04c2f ;
+   color: #f04c2f ;
     font-weight:bold ;
+
 
 text-align: center;
 line-height: center;
@@ -62,13 +66,15 @@ line-height: center;
     }
     h3{
         font-weight:bold;
-        color:#008B8B
+        color:#008B8B;
+        font-size: 1.5em;
     }
     .blu {
         background-color: #34c3eb;
         width:600px;
         height:200px;
         text-align: center;
+        margin:auto;
     }
     .bianco {
         font-weight: bold;
@@ -77,4 +83,28 @@ line-height: center;
     }
 .tabella{
     text-align:center;
+}
+img{
+    width:300px;
+}
+.card {
+    width:400px;
+    height: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    margin:auto;
+}
+.cart2{ width:400px;
+    height: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    margin:auto;
+
+}
+.carta3{ width:400px;
+    height: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    margin:auto;
+
 }
